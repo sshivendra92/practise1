@@ -1,0 +1,6 @@
+print "write python code for practise"
+print "revise all python concepts and practise"
+print "learn paramiko, json, os, subprocess, mutitasking modules"
+print "lean deepcopy and shallow copy"
+print "learn init file concepts"
+print "learn about dict, list and tuples"
